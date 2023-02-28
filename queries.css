@@ -1,0 +1,41 @@
+@media only screen and (max-width: 1100px) {
+    .karta {
+        margin-top: 100px;
+        width: 330px;
+        flex-direction:column-reverse;
+    }
+
+    .obrazok img {
+        width: 100%;
+    }
+
+    .overlay {
+        bottom: 68.5%;
+        width: 100%;
+        height: 100%;
+    }
+
+    .text {
+    width: 330px;
+    text-align: center;
+    padding-right: 18%;
+    margin-left: 9%;
+    }
+
+    .nadpis {
+        font-size: 29px;
+    }
+
+    .spodok_cisla {
+        display: block;
+    }
+
+    .spodok_cisla div {
+        margin: 0;
+
+    }
+    .spodok_nazvy {
+        text-align: center;
+        padding-bottom: 15%;
+    }
+}
